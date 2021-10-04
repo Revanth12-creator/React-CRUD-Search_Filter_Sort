@@ -1,0 +1,17 @@
+ul {
+  display: flex;
+  list-style-type: none;
+  padding: 20px;
+  background-color: aqua;
+}
+
+li {
+  padding: 20px;
+  background-color: blue;
+}
+
+td,
+tr {
+  padding: 10px;
+  background-color: cornflowerblue;
+}
